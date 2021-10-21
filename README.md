@@ -1,4 +1,4 @@
-![Examples](img/topic.png)
+![Examples](img/machine.jpg)
 
 ### Publication
 Ratnabali Pal
